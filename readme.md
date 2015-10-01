@@ -29,7 +29,7 @@ Er uppgift här är att skriva egna funktioner som gör detta och några till so
 
 ## Uppgiftsbeskrivning ##
 
-Ni ska skriva funktionerna sum,min,max,average och median som i tar en lista av tal, *listOfNumbers* och returnerar ett tal.
+Ni ska skriva funktionerna sum,min,max,average och median som tar in en lista av tal, *listOfNumbers* och returnerar ett tal.
 Lägg funktioner i en fil listcounts.py respektive listcounts.rb
 
 - sum returnerar summan av alla tal i listan
