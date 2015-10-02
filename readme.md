@@ -38,7 +38,7 @@ Lägg funktioner i en fil listcounts.py respektive listcounts.rb
 - average returnerar det medelvärdet av alla tal i listan
 - median returnerar det mittersta värdet i listan, om det mittersta värdet ligger mellan två värden, medelvärdet av dessa två värden
 
-om argumentet till listan är en tom lista [], returneras 0
+om argumentet till listan är en tom lista [], returneras `nil` (ruby) eller `None` (python.)
 
 
 ### Exempel ###
