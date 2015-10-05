@@ -66,7 +66,7 @@ om argumentet till listan är en tom lista [], returneras `nil` (ruby) eller `No
 #### Python ####
 	
 	sum(listOfNumbers=[])
-	#=> nil
+	#=> None
 
 	sum(listOfNumbers=[2,3,4,5])
 	>>> 14
